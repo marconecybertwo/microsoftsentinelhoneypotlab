@@ -1,5 +1,3 @@
-# microsoftsentinelhoneypotlab
-
 <h1>Microsoft Sentinel Honeypot Lab</h1>
 
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
