@@ -1,6 +1,6 @@
 # microsoftsentinelhoneypotlab
 
-<h1>JWipe - Microsoft Sentinel Honeypot Lab</h1>
+<h1>Microsoft Sentinel Honeypot Lab</h1>
 
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
